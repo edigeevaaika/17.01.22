@@ -3,7 +3,7 @@ console.log("hello world");
 //console.log("Aida");
 
 let example = "marker";
-let example2 = "январь";
+let example2 = "январь" + example;
 console.log(example);
 //console.log(example_2);
 
